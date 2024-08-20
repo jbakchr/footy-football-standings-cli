@@ -69,4 +69,11 @@ Ved kørsel af denne kommando vil stillingen for Premier League i ens terminal s
 Vil man i stedet se en af de andre ligaers stillinger, som udskiftes 'pl' i ens kommando bare med en af argumenterne fra ovenstående liste.
 
 ### Få hjælp til brugen af CLI'et
-Hvis man vil se, hvordan man får hjælp til brugen af CLI'et, så tilføjer man bare 'flaget' ```--help```
+Hvis man vil se, hvordan man får hjælp til brugen af CLI'et, så tilføjer man bare 'flaget' ```--help``` på følgende måde:
+```bash
+typer main.py run --help
+```
+
+Gøres dette, så fremkommer følgende hjælp i terminalen:
+<img width="618" alt="cli-help" src="https://github.com/user-attachments/assets/d84ed941-105a-4bb8-a079-2c3a8848aa40">
+
