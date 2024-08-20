@@ -33,3 +33,21 @@ Nemmeste måde at installere disse Python pakker er dog heldigvis blot at køre 
 pip install -r requirements.txt
 ```
 
+### Hvordan man bruger CLI'et
+I dette nedenstående gennemgås, hvordan man bruger CLI'et på følgende måder:
+1. Uden brug af argumenter
+2. Med brug af argumenter
+3. Får hjælp til brug af CLI'et
+
+#### Brug uden argumenter
+CLI'et er sat op til vise stillingen for den danske Superliga som standard. Så hvis man kører CLI'et uden brug af argumenter, så vises stillingen for Superligaen.
+
+Dette gøres ved at køre denne kommando:
+```bash
+typer main.py run
+```
+
+Når denne kommando køres, så fremkommer stillingen for den danske Superliga (her indhentet d. 20. august 2024) sådan her i terminalen:
+<img width="495" alt="cli-superliga-2024-08-20" src="https://github.com/user-attachments/assets/6b00d6da-75b8-456f-8b62-19e010932d1f">
+
+
