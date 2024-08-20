@@ -2,7 +2,7 @@
 Dette script bruges som et CLI til nemmere at hente fodboldstillinger fra https://bold.dk/, i stedet for at bruges hjemmesidens egen navigationsmuligheder til samme.
 
 ## Demo
-
+Følgende video viser, hvordan man bruger dette CLI.
 
 https://github.com/user-attachments/assets/badc2706-ec96-45c7-be76-83197c90d1df
 
