@@ -28,3 +28,8 @@ Når man har Python installeret, så kræver CLI'et at man henter følgende pakk
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [Rich](https://rich.readthedocs.io/en/latest/)
 
+Nemmeste måde at installere disse Python pakker er dog heldigvis blot at køre denne kommando, da den vil installere alle de nødvendige pakker, uden at man skal gøre noget selv:
+```bash
+pip install -r requirements.txt
+```
+
