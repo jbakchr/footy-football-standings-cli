@@ -68,4 +68,5 @@ Ved kørsel af denne kommando vil stillingen for Premier League i ens terminal s
 
 Vil man i stedet se en af de andre ligaers stillinger, som udskiftes 'pl' i ens kommando bare med en af argumenterne fra ovenstående liste.
 
-
+### Få hjælp til brugen af CLI'et
+Hvis man vil se, hvordan man får hjælp til brugen af CLI'et, så tilføjer man bare 'flaget' ```--help```
