@@ -1,1 +1,1 @@
-# footy-football-standings-cli
+# 'footy': a football standings cli
