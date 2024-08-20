@@ -9,4 +9,7 @@ Hvis man er gået ind for at se stillingen for den danske Superliga, og dernæst
 1. Først op bold.dk's navigationsmenu, vælge "Stillinger" drop-down listen og så først der vælge "Premier League", eller
 2. Vælge det undseelige lige link i øverste venstre med teksten "Alle turneringer", og dernæst vælge "Premier League" fra den fremkomne liste, når man trykket på linket
 
+Her er et eksempel der viser den "langsommelige" proces man skal igennem for at gå siden med stillingen fra danske Superliga til siden stillingen med stillingen for Premier League:
+
+<img width="672" alt="Screenshot 2024-08-20 at 10 18 06" src="https://github.com/user-attachments/assets/1c458e16-f1fc-43de-9b59-4a2b9699b722">
 
