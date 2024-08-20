@@ -1,6 +1,13 @@
 # 'footy': et CLI til fodboldstillinger
 Dette script bruges som et CLI til nemmere at hente fodboldstillinger fra https://bold.dk/, i stedet for at bruges hjemmesidens egen navigationsmuligheder til samme.
 
+## Demo
+
+
+https://github.com/user-attachments/assets/badc2706-ec96-45c7-be76-83197c90d1df
+
+
+
 ## Baggrund
 Baggrunden for at have lavet dette CLI er, at man - hvis man er fodboldinteresseret og følger med stillingerne fra de europæiske ligaer - på bold.dk's hjemmeside hele tiden skal bruge fx hjemmesidens navigationsbar til at kunne se stillingerne, hvilket er (rimelig) irriterende og langsommeligt, når blot man gerne vil se stillingen fra en anden liga.
 
