@@ -66,4 +66,6 @@ Ved kørsel af denne kommando vil stillingen for Premier League i ens terminal s
 
 <img width="542" alt="cli-pl" src="https://github.com/user-attachments/assets/8ec9c2fb-d59a-474d-9a24-3287a4138b52">
 
+Vil man i stedet se en af de andre ligaers stillinger, som udskiftes 'pl' i ens kommando bare med en af argumenterne fra ovenstående liste.
+
 
