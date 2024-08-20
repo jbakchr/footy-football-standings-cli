@@ -6,7 +6,7 @@ Baggrunden for at have lavet dette CLI er, at man - hvis man er fodboldinteresse
 
 ### Eksempel
 Hvis man er gået ind for at se stillingen for den danske Superliga, og dernæst gerne vil se stillingen for den engelske Premier League, så skal man enten:
-1. Først op bold.dk's navigationsmenu, vælge "Stillinger" drop-down listen og så først der vælge "Premier League", eller
+1. Først op i bold.dk's navigationsmenu, vælge "Stillinger" drop-down listen og så først der vælge "Premier League", eller
 2. Vælge det undseelige lige link i øverste venstre med teksten "Alle turneringer", og dernæst vælge "Premier League" fra den fremkomne liste, når man trykket på linket
 
 Her er et eksempel der viser den "langsommelige" proces man skal igennem for at gå siden med stillingen fra danske Superliga til siden stillingen med stillingen for Premier League:
