@@ -17,4 +17,14 @@ Her er et eksempel der viser den "langsommelige" proces man skal igennem for at 
 Det CLI'et løser er således at man blot ved enten at køre det - eller evt. give det argument for den liga man gerne vil se en stilling fra (fx 'pl' for Premier Leagu, 'll' for La Liga osv. - kan få fodboldstillinger hurtigt vist i sin terminal, uden at man behøver bruge bold.dk's langsommelige proces for at se samme.
 
 ### Forudsætninger for at bruge CLI'et
-For at kunne bruge CLI'et, så forudsættes det først og fremmest at man har [Python](https://www.python.org/) installeret.
+For at kunne bruge CLI'et, så forudsættes følgende:
+
+#### Have Python installeret
+Først og fremmest skal man have [Python](https://www.python.org/) installeret. Har man ikke det, så følg linket til https://www.python.org/ for at downloade og installere Python.
+
+#### Installere 'Typer', 'BeautifulSoup' og 'Rich'
+Når man har Python installeret, så kræver CLI'et at man henter følgende pakker:
+* [Typer](https://typer.tiangolo.com/)
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [Rich](https://rich.readthedocs.io/en/latest/)
+
