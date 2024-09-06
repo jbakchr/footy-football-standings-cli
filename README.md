@@ -57,7 +57,7 @@ typer main.py run
 Når denne kommando køres, så fremkommer stillingen for den danske Superliga (her indhentet d. 20. august 2024) sådan her i terminalen:
 <img width="495" alt="cli-superliga-2024-08-20" src="https://github.com/user-attachments/assets/6b00d6da-75b8-456f-8b62-19e010932d1f">
 
-### Brug med argumenter
+#### Brug med argumenter
 Hvis man gerne vil se stillingen for en anden liga - pt. er mulighederne uderover Superligaen at se stillinger for Premier League, La Liga, Bundesligaen og Seria A - så skal blot efter ovenstående kommando tilføje en af følgende argumenter:
 - pl (for Premier League)
 - ll (for La Liga)
@@ -75,7 +75,7 @@ Ved kørsel af denne kommando vil stillingen for Premier League i ens terminal s
 
 Vil man i stedet se en af de andre ligaers stillinger, som udskiftes 'pl' i ens kommando bare med en af argumenterne fra ovenstående liste.
 
-### Få hjælp til brugen af CLI'et
+#### Få hjælp til brugen af CLI'et
 Hvis man vil se, hvordan man får hjælp til brugen af CLI'et, så tilføjer man bare 'flaget' ```--help``` på følgende måde:
 ```bash
 typer main.py run --help
