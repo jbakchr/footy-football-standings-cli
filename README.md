@@ -1,5 +1,5 @@
 # 'footy': et CLI til fodboldstillinger
-Dette script bruges som et CLI til nemmere at hente fodboldstillinger fra https://bold.dk/, i stedet for at bruges hjemmesidens egen navigationsmuligheder til samme.
+Dette script bruges som et CLI til nemmere at hente fodboldstillinger fra https://bold.dk/, i stedet for at bruge hjemmesidens egen navigationsmuligheder til samme.
 
 ## Demo
 Følgende video viser, hvordan man bruger dette CLI.
