@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ```
 
 ### Hvordan man bruger CLI'et
-I dette nedenstående gennemgås, hvordan man bruger CLI'et på følgende måder:
+I nedenstående gennemgås, hvordan man bruger CLI'et på følgende måder:
 1. Uden brug af argumenter
 2. Med brug af argumenter
 3. Får hjælp til brug af CLI'et
